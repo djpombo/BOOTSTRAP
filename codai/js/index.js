@@ -1,5 +1,5 @@
-var nome = "Joao da Silva";
-var profissao = "Mecanico";
+var nome = "Thuiskon Kerber";
+var profissao = "Developer";
 
 
 var nomehtml = document.getElementById("nome-no-html");
