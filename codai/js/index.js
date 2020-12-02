@@ -7,7 +7,7 @@ var profhtml = document.getElementById("profissao");
 var texto1 = document.getElementById("texto-1");
 var texto2 = document.getElementById("texto-2");
 var texto3 = document.getElementById("texto-3");
-0
+
 
 
 
